@@ -1,0 +1,38 @@
+.navbar{
+    height: 70px;
+    width: 1536px;
+    background-color: brown;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+body{
+    margin: 0px;
+    padding: 0;
+}
+
+
+h1{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 15px;
+    color: black;
+}
+h1:hover{
+    color: chartreuse;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+h3{
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 7px;
+
+}
